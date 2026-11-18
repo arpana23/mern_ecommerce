@@ -77,7 +77,7 @@ A full-stack e-commerce web application developed using the MERN stack (MongoDB,
 ## 📁 Project Structure
 
 ```text
-ecommerce-app/
+mern_ecommerce/
 │
 ├── admin/          # Admin dashboard
 │
@@ -91,13 +91,13 @@ ecommerce-app/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/arpana23/mern_eccomerce.git
+git clone https://github.com/arpana23/mern_ecommerce.git
 ```
 
 ### 2. Navigate to the Project Directory
 
 ```bash
-cd ecommerce-app
+cd mern_ecommerce
 ```
 
 ### 3. Install Dependencies

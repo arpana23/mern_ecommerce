@@ -91,7 +91,7 @@ mern_ecommerce/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/arpana23/mern_ecommerce.git
+git clone https://github.com/arpana23/mern_eccomerce.git
 ```
 
 ### 2. Navigate to the Project Directory

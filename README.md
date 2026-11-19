@@ -47,7 +47,7 @@ A full-stack e-commerce web application developed using the MERN stack (MongoDB,
 
 ### 💳 Payment Integration
 - Stripe payment integration
-- Razorpay payment integration
+- COD
 - Payment verification functionality
 
 ## 🛠️ Technologies Used

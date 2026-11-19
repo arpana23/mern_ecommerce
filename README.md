@@ -5,6 +5,9 @@ https://mern-eccomerce-frontend.vercel.app/
 ## 📸 Screenshots
 <img width="1683" height="860" alt="mern-ecommerce" src="https://github.com/user-attachments/assets/b527b710-9503-47f5-ade7-2307eda5dcb2" />
 
+<img width="1895" height="866" alt="e-commerce-admin" src="https://github.com/user-attachments/assets/390b36f4-31ea-4a75-84ce-5edabfb6f7e4" />
+
+
 
 
 # 🛒 MERN Stack E-Commerce Website
